@@ -1,0 +1,24 @@
+Personajes
+Sam: el prota, quizas con un pasado misterioso o una habilidad especial que se revelara.
+
+Lena: inteligente y observadora, podria ser la voz de la razon del grupo.
+
+Ben: fuerte y practico, inclinado a soluciones mas directas, no piensa mucho las cosas.
+
+Chloe: impulsiva y emocional, sus reacciones podrian generar tension.
+
+David: analitico y cauteloso, prefiere pensar antes que actuar.
+
+
+
+
+
+
+
+Sam despierta en una oscura y fría habitación sin recordar cómo llegó allí...
+Frente a él, una pantalla parpadeante muestra un mensaje inquietante...
+Bienvenidos. El tiempo corre. Si quieres salir, resuelve los acertijos antes de que sea demasiado tarde...";
+Se da cueta que hay varias personas con el y que todos luces igual de desconcertados, todos con una pantalla en frente de ellos..
+En el medio de la habitacion 
+
+    
